@@ -1,0 +1,29 @@
+name: Update public Shadowrocket rules
+on:
+  schedule:
+    # 05:00 Asia/Shanghai; GitHub scheduled runs can be delayed.
+    - cron: '0 21 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: update-public-rules
+  cancel-in-progress: false
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Convert and validate all public upstream sources
+        run: python3 update_rules.py
+      - name: Commit changed rules
+        shell: bash
+        run: |
+          git add rules rules-manifest.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh public Shadowrocket rule sets'
+          git push
