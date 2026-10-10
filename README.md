@@ -1,6 +1,6 @@
 # Public Shadowrocket rule conversions
 
-This public repository contains only conversions of 23 already-public upstream rule sets. It contains no personal configuration, custom routing domains, proxy group definitions, proxy server names, server credentials, user YAML or subscription tokens.
+This public repository contains conversions of 23 public upstream rule sets and an owner-approved public copy of smkie-QCY.conf. The configuration includes personal group names, node names and custom routing domains, but no proxy server addresses, credentials, subscription URLs or tokens.
 
 The data comes from MetaCubeX/meta-rules-dat and qichiyuhub/rule. All source URLs are listed in `sources.json`; `rules-manifest.json` records validation counts and checksums.
 
@@ -10,4 +10,8 @@ The included GitHub Actions workflow requests updates daily at 05:00 Asia/Shangh
 
 Shadowrocket must also have configuration automatic background updates enabled. For a locally imported configuration without `update-url`, that refreshes the referenced remote rule sets, while personal strategy groups and custom domains stay in the local configuration. Device and OS background-execution restrictions can delay or prevent refreshes.
 
-Rule endpoints: `https://raw.githubusercontent.com/smkieye/smkie-shadowrocket-rules/main/rules/<name>.list`. Personal configurations are maintained separately in a private repository.
+Rule endpoints: `https://raw.githubusercontent.com/smkieye/smkie-shadowrocket-rules/main/rules/<name>.list`. The private repository remains available as a separate copy.
+
+## 直接下载配置
+
+[smkie-QCY.conf](https://raw.githubusercontent.com/smkieye/smkie-shadowrocket-rules/main/smkie-QCY.conf) 无需登录，可粘贴到 Shadowrocket 的配置下载地址。导入后启用该配置，并在“设置 → 配置 → 自动后台更新”选择“1 天”。规则库每日更新；本配置没有 update-url，策略组和自定义规则修改需手动重新下载。
