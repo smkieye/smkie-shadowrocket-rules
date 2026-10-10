@@ -1,0 +1,117 @@
+[
+  {
+    "name": "private_ip",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.list",
+    "behavior": "ipcidr"
+  },
+  {
+    "name": "private_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "proxylite",
+    "url": "https://raw.githubusercontent.com/qichiyuhub/rule/main/rules/proxy.list",
+    "behavior": "classical"
+  },
+  {
+    "name": "ai",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "github_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "youtube_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "google_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "onedrive_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/onedrive.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "microsoft_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "apple_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "tiktok_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "telegram_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "netflix_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "disney_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/disney.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "hbomax_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/hbo.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "paypal_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/paypal.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "apple_ip",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo-lite/geoip/apple.list",
+    "behavior": "ipcidr"
+  },
+  {
+    "name": "google_ip",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.list",
+    "behavior": "ipcidr"
+  },
+  {
+    "name": "netflix_ip",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.list",
+    "behavior": "ipcidr"
+  },
+  {
+    "name": "telegram_ip",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.list",
+    "behavior": "ipcidr"
+  },
+  {
+    "name": "geolocation-!cn",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "cn_domain",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.list",
+    "behavior": "domain"
+  },
+  {
+    "name": "cn_ip",
+    "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.list",
+    "behavior": "ipcidr"
+  }
+]
