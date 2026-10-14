@@ -24,8 +24,8 @@
     "name": "ai",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.list",
     "rules": 189,
-    "source_sha256": "aca45ba8eb9faf6a007b2baa5b5247b5ed376893402fdd6fd20d531d5c8d783b",
-    "converted_sha256": "dbe2fb13d72a4436925e22a8c8499bc8fe20d0ae2234302b42abc37e040883bc"
+    "source_sha256": "464585e47a6a402f9d84d55857f649f4fd2d9a50fd654cceba588b98fba1f0b4",
+    "converted_sha256": "0de7711792cb55da100fcc716abc89dd6538d0e998d1d3a778952f084f06e20a"
   },
   {
     "name": "github_domain",
@@ -45,8 +45,8 @@
     "name": "google_domain",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.list",
     "rules": 1075,
-    "source_sha256": "c265378c399c0370a35634ec027b7373f6662b57c24142798437bdc6f2213de6",
-    "converted_sha256": "152e2dc3ff8ba830e9a589605f77750753f4a35d556614cb1a680ef420eb0192"
+    "source_sha256": "824183a9100a960d425e7db5d47d533ba731241e875990404ca197fb5eb28d74",
+    "converted_sha256": "b3e72d4d1307375ae116e9c3510f472653d423dce91c625d718bde25dbfe6ca9"
   },
   {
     "name": "onedrive_domain",
@@ -59,15 +59,15 @@
     "name": "microsoft_domain",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.list",
     "rules": 749,
-    "source_sha256": "e574a3d5c1bdaf95960d326150520b60c02938626c214a0d2697ec9c0a40a5d7",
-    "converted_sha256": "ae2f2ba670a0e803c8e83ee2f777a335bb72a21d054e9aec2fd3802b7a254c32"
+    "source_sha256": "4c8921d2bb97ac3fad73369e23ac58c8413e7ed91f6fc6f212ab00a65027f5bc",
+    "converted_sha256": "b4caa2b7ea0f4e99336ab69ed87f851765c79c11c8963113d7b36ff871f3132e"
   },
   {
     "name": "apple_domain",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.list",
     "rules": 1792,
-    "source_sha256": "e1e425212aff2c721d8e3315c111b6afe2eb614231e8293ee8738e400ab4f47e",
-    "converted_sha256": "11c4927394981b276abdcbccb42fcc423170bb59248b5a33f888ea2a79ef9f4e"
+    "source_sha256": "c364e76e1efdd2f8a4071670b38c966dfad2d40cba17f6aec8b7e104bc43ca4c",
+    "converted_sha256": "f1de2d7f90cacaa8dadc777ca8edeff03fcf8607a3de97ed00d3ea9f1ccc9a74"
   },
   {
     "name": "tiktok_domain",
@@ -149,9 +149,9 @@
   {
     "name": "cn_domain",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.list",
-    "rules": 111595,
-    "source_sha256": "c2229d72f96ccb7850cc0f464f29e51846d666d32936cf51709e943b7798f1c3",
-    "converted_sha256": "3b8c86e920921ccaac74ca882eb78be3e6bb17a7507761ee90623bf7a0c01407"
+    "rules": 110821,
+    "source_sha256": "fe36314c49beda91702cc5c18b2c7f87292c37db664e251a57a0e6f9ac6192c5",
+    "converted_sha256": "9d132000dded5447298528e5b88abb84ff582f98369701b39e98c616cb15497a"
   },
   {
     "name": "cn_ip",
