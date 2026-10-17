@@ -24,8 +24,8 @@
     "name": "ai",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.list",
     "rules": 189,
-    "source_sha256": "b698521e8d741973c8fde5b701d49f7a324950e0529b54284e299e2177b03620",
-    "converted_sha256": "6e79056d4b66d3528d2ffe6b80928e7562d13e8a5d50b50c890ef75a3ee2ff36"
+    "source_sha256": "e90d4a817660dc4ce4ef40ad25c281cc0bb018b28c9c87cf3641d6233e29da31",
+    "converted_sha256": "4271d7458f92bb2d197bf87d8892814fc05fa1aae2a5554ccb9096f15b20d019"
   },
   {
     "name": "github_domain",
@@ -45,8 +45,8 @@
     "name": "google_domain",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.list",
     "rules": 1075,
-    "source_sha256": "c3c6dba1f8903effd00506551758b69d1616a20ca53905ccf2daa770ee4c0403",
-    "converted_sha256": "c9e568b91120ebb3396dc0369b2fa2c84abdf7cf55cd0b9f8d11cdd95b57ab99"
+    "source_sha256": "0c901963ab69715f983728910c4f081aca623afdc0299c9923281ea0cd05a356",
+    "converted_sha256": "72a4ece8434aee695468ef233f4db97350ebeb9a15b252a849e369e1fa2de8d0"
   },
   {
     "name": "onedrive_domain",
@@ -66,8 +66,8 @@
     "name": "apple_domain",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.list",
     "rules": 1792,
-    "source_sha256": "c2f25d7c5ba49df614f8c26dc69a135f86c877921d11a5ac88cfcf2b12e5533c",
-    "converted_sha256": "af0ca2f06dce87082518fb2708c821332744b1146a91be03f72721dc2854a6c4"
+    "source_sha256": "2c5e235f9bfe65b06b70f5c91a559781a28cd2e84bed34b1a6aedb707390f6e7",
+    "converted_sha256": "9d9a713a6d1b3dcf47f2725d98cc08654b1a91a604492c43f96104b6eb1a3df5"
   },
   {
     "name": "tiktok_domain",
@@ -142,9 +142,9 @@
   {
     "name": "geolocation-!cn",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.list",
-    "rules": 27194,
-    "source_sha256": "0070cf8ba268a5db18c92ca90917d354cde2eac29daf44c64c48fb40d5805e55",
-    "converted_sha256": "5ca4aa2eb5ad4785b2c518c5a02f0569cdd71b96bb897c5be7ad0eb96db3422d"
+    "rules": 27195,
+    "source_sha256": "52205d27c3e407283f361a17952f8812b08dd0e2001100d0a6a0ce381950c1eb",
+    "converted_sha256": "22accf6ca14e700cc237e7eabfe212bf5420c0dcef68d9b4301ec30da27de057"
   },
   {
     "name": "cn_domain",
