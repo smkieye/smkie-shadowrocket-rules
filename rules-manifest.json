@@ -24,8 +24,8 @@
     "name": "ai",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.list",
     "rules": 218,
-    "source_sha256": "c8e883a49f9157d02f4519429cd2df92067f1f6091d752b6441a916f617ca0a0",
-    "converted_sha256": "5db1d8d6f4072f211dd0eb30513decc7804227790825fbcbb3d65bf980dacb3f"
+    "source_sha256": "e7ea427f19472183a08910484e3dadbf85daa3efa0488e73b5633ec3291757e3",
+    "converted_sha256": "898e25809420ff669d50b91300eb424b511fb9a211a30c583eb8a1d4c672060f"
   },
   {
     "name": "github_domain",
@@ -45,8 +45,8 @@
     "name": "google_domain",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.list",
     "rules": 1078,
-    "source_sha256": "4dd7e9273d33c7349372df53615e7c78ce5becb3c1408ef937a43ee1c8ac2589",
-    "converted_sha256": "dacdc4bd64cd66e87a94c40d0957ce227325da46676aac8f70b816478d206d2e"
+    "source_sha256": "c75ec340e59311bb51fabee5aeb49969819c59538dfb69ff0db9cf6769edb10b",
+    "converted_sha256": "dbb7727ff4601224bfe4fafbceae3e21154ea6f64a20e5bd818ad3fb384d9a5a"
   },
   {
     "name": "onedrive_domain",
@@ -59,15 +59,15 @@
     "name": "microsoft_domain",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/microsoft.list",
     "rules": 759,
-    "source_sha256": "7c974dd2cbd6937c7d23e1d67110ea7e5d42466a95efe630b149dfb2214a0a2a",
-    "converted_sha256": "c6d0117b65c84356e7abba83536c3c0278f241412b0730fef6b568f3f23a42d0"
+    "source_sha256": "a57ff03115b31f98504b6e67e3fb4e54fd840e54a477cd5fd1a9d11fcd3a71ee",
+    "converted_sha256": "5ee130b551389c1d1e320b33ba93dd4f985921b4d1d64b131e653c564bf3eb51"
   },
   {
     "name": "apple_domain",
     "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.list",
     "rules": 1668,
-    "source_sha256": "21cf4dae3be8afdc088272bd9f0d8707296f57017b1c1dfbf7eb73cbedf5b034",
-    "converted_sha256": "a719bb2e41b1d4c21bb4a3e7fb7ce349c263418145b6464fb32ed60bd240f1de"
+    "source_sha256": "eec70b102dd16d4ca009de425e03756ca8686d6d895944381453ee4fd33ab8cc",
+    "converted_sha256": "3e1d68692f10aa0da9f7973b1c4e72c13f0a0968063eb73fa5c950ff1d455326"
   },
   {
     "name": "tiktok_domain",
